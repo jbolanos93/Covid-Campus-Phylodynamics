@@ -1,0 +1,13 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors: Juan Bolanos, Alex Dornburg, April Harris, Samuel Kunkleman, Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas 
+  
+orcid:
+C. Gibas:		https://orcid.org/0000-0002-1288-9543
+A. Dornburg:		https://orcid.org/0000-0003-0863-2283
+J. Schlueter:		https://orcid.org/0000-0002-6490-0580 
+J. Bolanos		https://orcid.org/0009-0009-1857-2633
+
+title:COVID-19 On Campus VS Off Campus Transmission: Data & Code – v1.0
+version: 1.0
+date-released: 2025-02-27
