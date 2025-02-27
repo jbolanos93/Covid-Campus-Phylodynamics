@@ -13,9 +13,3 @@ Authors: **Juan Bolanos**, Alex Dornburg, April Harris, Samuel Kunkleman, Jannat
 - **`scripts/`** - Python, Bash, and R scripts  
 - **`data/`** - Example dataset. This dataset contains BEAST MCC tree, with only 20 trees for faster processing.   
 - **`results/`** - Generated figures and tables  
-
-## Installation
-To run the code, install dependencies using Conda:
-```bash
-conda env create -f environment.yml
-conda activate myenv
