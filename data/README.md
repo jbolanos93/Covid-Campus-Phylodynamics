@@ -1,15 +1,19 @@
-# On-Campus Dormitories as Viral Transmission Sinks: Phylodynamic Insights into Student Housing Networks During the COVID-19 Pandemic
+# Phylodynamic Analysis Data  
 
+This repository contains data files related to our Bayesian phylodynamic analysis of SARS-CoV-2 transmission in student housing environments. The full dataset, including BEAST input and output files, is available on **Zenodo**.  
 
-## Overview
-This repository contains the code and data for our study:  
-*"On-Campus Dormitories as Viral Transmission Sinks: Phylodynamic Insights into Student Housing Networks During the COVID-19 Pandemic"* (PLOS Pathogens, 2025).  
-Authors: **Juan Bolanos**, Alex Dornburg, April Harris, Samuel Kunkleman, Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas  
-[![DOI](https://zenodo.org/badge/939649881.svg)](https://doi.org/10.5281/zenodo.14934331)
+## 📂 Data Availability  
 
+The dataset can be accessed via **Zenodo** using the following DOI:  
 
-## Repository Structure
-- **`notebooks/`** - Jupyter notebooks for analysis. Walks through reproducing figures. 
-- **`scripts/`** - Python, Bash, and R scripts  
-- **`data/`** - Example dataset. This dataset contains BEAST MCC tree, with only 20 trees for faster processing.   
-- **`results/`** - Generated figures and tables  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14934467.svg)](https://doi.org/10.5281/zenodo.14934467)  
+
+Alternatively, visit [https://doi.org/10.5281/zenodo.14934467](https://doi.org/10.5281/zenodo.14934467).  
+
+## 📜 Contents  
+
+- **BEAST.xml** – Input XML file for BEAST  
+- **BEAST.log** – Log file with posterior estimates  
+- **BEAST.trees** – 20 Randomly Sampled phylogenetic trees  
+- **BEAST_Transition_Counter_Output.txt** – Summary of transition events (BEAST Transition Counter output) 
+
