@@ -12,4 +12,3 @@ Authors: **Juan Bolanos**, Alex Dornburg, April Harris, Samuel Kunkleman, Jannat
 - **`notebooks/`** - Jupyter notebooks for analysis. Walks through reproducing figures. 
 - **`scripts/`** - Python, Bash, and R scripts  
 - **`data/`** - Example dataset. This dataset contains BEAST MCC tree, with only 20 trees for faster processing.   
-- **`results/`** - Generated figures and tables  
