@@ -4,7 +4,7 @@
 ## Overview
 This repository contains the code and data for our study:  
 *"On-Campus Dormitories as Viral Transmission Sinks: Phylodynamic Insights into Student Housing Networks During the COVID-19 Pandemic"* (PLOS Pathogens, 2025).  
-Authors: **Juan Bolanos**, Alex Dornburg, April Harris, Samuel Kunkleman, Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas<br>
+Authors: **Juan Bolanos**, Alex Dornburg, April Harris, Samuel Kunkleman, Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas <br>
 **Zenodo**:<br>
 [![DOI](https://zenodo.org/badge/939649881.svg)](https://doi.org/10.5281/zenodo.14934331)
 
