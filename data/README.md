@@ -6,11 +6,10 @@ This repository contains data files related to our Bayesian phylodynamic analysi
 
 The dataset can be accessed via **Zenodo** using the following DOI:  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14940367.svg)](https://doi.org/10.5281/zenodo.14940367)
+[![DOI](https://zenodo.org/badge/939649881.svg)](https://doi.org/10.5281/zenodo.14934331)
 
 
-
-Alternatively, visit [https://doi.org/10.5281/zenodo.14940367](https://doi.org/10.5281/zenodo.14940367)  
+Alternatively, visit [https://doi.org/10.5281/zenodo.14934331](https://doi.org/10.5281/zenodo.14934331)  
 
 ## 📜 Contents  
 
