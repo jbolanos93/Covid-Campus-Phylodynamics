@@ -1,13 +1,28 @@
-cff-version: 1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors: Juan Bolanos, Alex Dornburg, April Harris, Samuel Kunkleman, Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas 
-  
-orcid:
-C. Gibas:		https://orcid.org/0000-0002-1288-9543
-A. Dornburg:		https://orcid.org/0000-0003-0863-2283
-J. Schlueter:		https://orcid.org/0000-0002-6490-0580 
-J. Bolanos:		https://orcid.org/0009-0009-1857-2633
 
-title:COVID-19 On Campus VS Off Campus Transmission: Data & Code – v1.0
-version: 1.0
-date-released: 2025-02-27
+authors:
+  - family-names: Bolanos
+    given-names: Juan
+    orcid: "https://orcid.org/0009-0009-1857-2633"
+  - family-names: Dornburg
+    given-names: Alex
+    orcid: "https://orcid.org/0000-0003-0863-2283"
+  - family-names: Harris
+    given-names: April
+  - family-names: Kunkleman
+    given-names: Samuel
+  - family-names: Moon
+    given-names: Jannatul Ferdous
+  - family-names: Taylor
+    given-names: William
+  - family-names: Schlueter
+    given-names: Jessica
+    orcid: "https://orcid.org/0000-0002-6490-0580"
+  - family-names: Gibas
+    given-names: Cynthia
+    orcid: "https://orcid.org/0000-0002-1288-9543"
+
+title: "On-Campus Dormitories as Viral Transmission Sinks: Phylodynamic Insights into Student Housing Networks During the COVID-19 Pandemic"
+version: "2.0.1"
+date-released: "2025-02-27"
