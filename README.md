@@ -2,7 +2,8 @@
 ## Phylodynamic Insights into Student Housing Networks During the COVID-19 Pandemic
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1hDYkrx0vK8CPxf2tt8U4AyA7iUS-wgIi" alt="Project Logo" width="200"><br>
+  <img src="https://drive.google.com/uc?export=view&id=1f65jTIcIkUChlzUK4Lo8MMRQOkONIIG9" alt="Project Logo" width="200">
+<br>
   <a href="https://doi.org/10.1371/journal.ppat.1013666">
     <img src="https://img.shields.io/badge/DOI-10.1371%2Fjournal.ppat.1013666-orange">
   </a>
