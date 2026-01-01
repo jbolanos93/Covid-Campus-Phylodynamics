@@ -24,10 +24,13 @@ Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas
 
 ## Publication
 - **Journal Article (PLOS Pathogens):**  
-  https://doi.org/10.1371/journal.ppat.1013666
+[![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.ppat.1013666-orange)](https://doi.org/10.1371/journal.ppat.1013666)
+ <br><br>
 
 - **Zenodo Data Archive:**  
-  https://doi.org/10.5281/zenodo.14934331
+<br>**Zenodo Data Archive**:<br>
+[![DOI](https://zenodo.org/badge/939649881.svg)](https://doi.org/10.5281/zenodo.14934331) <br><br>
+
 
 ---
 
