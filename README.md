@@ -28,7 +28,6 @@ Jannatul Ferdous Moon, William Taylor, Jessica Schlueter, Cynthia Gibas
  <br><br>
 
 - **Zenodo Data Archive:**  
-<br>**Zenodo Data Archive**:<br>
 [![DOI](https://zenodo.org/badge/939649881.svg)](https://doi.org/10.5281/zenodo.14934331) <br><br>
 
 
