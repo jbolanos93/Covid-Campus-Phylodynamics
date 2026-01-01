@@ -1,6 +1,6 @@
 # On campus dormitories as viral transmission sinks: Phylodynamic insights into student housing networks during the COVID-19 pandemic
 
-<p align="center">
+<p align="left">
   <img src="https://drive.google.com/uc?export=view&id=1f65jTIcIkUChlzUK4Lo8MMRQOkONIIG9" alt="Project Logo" width="200">
 <br>
   <a href="https://doi.org/10.1371/journal.ppat.1013666">
